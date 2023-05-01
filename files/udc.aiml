@@ -11,12 +11,12 @@
 </category>
 
 <category>
-  <pattern>TELL ME ABOUT [DESTINATION]</pattern>
-  <template>[DESTINATION] is a popular tourist destination known for its [ATTRACTION]. Would you like more information?</template>
+  <pattern>TELL ME ABOUT BANGALORE</pattern>
+  <template>Bangalore is a popular tourist destination known for its IT hub, night fun destination, greenery and lots more. Would you like more information?</template>
 </category>
 
 <category>
-  <pattern>HOW CAN I BOOK A HOTEL?</pattern>
+  <pattern>HOW CAN I BOOK A HOTEL</pattern>
   <template>You can book a hotel by providing your travel dates, budget, and preferred location. Would you like me to help you with the booking process?</template>
 </category>
 
