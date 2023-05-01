@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+  <pattern>HI</pattern>
+  <template>Hello! Welcome to our tourism chatbot. How may I assist you today?</template>
+</category>
+
+<category>
+  <pattern>WHAT CAN YOU DO?</pattern>
+  <template>I can help you with information about popular tourist destinations, hotel reservations, and travel guides. How may I assist you today?</template>
+</category>
+
+<category>
+  <pattern>TELL ME ABOUT [DESTINATION]</pattern>
+  <template>[DESTINATION] is a popular tourist destination known for its [ATTRACTION]. Would you like more information?</template>
+</category>
+
+<category>
+  <pattern>HOW CAN I BOOK A HOTEL?</pattern>
+  <template>You can book a hotel by providing your travel dates, budget, and preferred location. Would you like me to help you with the booking process?</template>
+</category>
+
+<category>
+  <pattern>WHAT ARE SOME MUST-SEE PLACES IN [DESTINATION]?</pattern>
+  <template>Some must-see places in [DESTINATION] include [ATTRACTION_1], [ATTRACTION_2], and [ATTRACTION_3]. Would you like more information?</template>
+</category>
+
+<category>
+  <pattern>WHAT IS THE BEST TIME TO VISIT [DESTINATION]?</pattern>
+  <template>The best time to visit [DESTINATION] is [SEASON] when the weather is [DESCRIPTION]. Would you like more information?</template>
+</category>
+
+<category>
+  <pattern>THANK YOU</pattern>
+  <template>You're welcome! Enjoy your trip.</template>
+</category>
+
+<category>
+  <pattern>GOODBYE</pattern>
+  <template>Goodbye! Have a great day.</template>
+</category>
+
+</aiml>
